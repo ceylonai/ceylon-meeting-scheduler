@@ -1,1 +1,7 @@
 /meeting_scheduler.db
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
