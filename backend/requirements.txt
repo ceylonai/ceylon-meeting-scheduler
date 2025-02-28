@@ -1,6 +1,8 @@
-ceylon
 fastapi
 uvicorn
+sqlalchemy
 pydantic
-loguru
 python-multipart
+email-validator
+ceylon
+loguru
